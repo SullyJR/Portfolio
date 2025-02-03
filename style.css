@@ -306,6 +306,11 @@ section {
     margin: auto 0;
 }
 
+.text-container p {
+    margin-top: 2rem;
+    line-height: 2rem;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
